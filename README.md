@@ -13,16 +13,12 @@
 <b>Go to:</b> Full Stack Developer
 </li>
 
-<li>
+<br><br><br>
+
 <b>Certificate : </b> KBTG Kampus <br>
 <b>Description : </b> This credential was issued to Atit Khaoeam for participation in Infrastructure Engineering Bootcamp 2023. <br>
 <b>Issue date : </b> February 7, 2024 <br>
 <b>See all : </b> https://credsverse.com/credentials/d79af5dd-517d-4de5-9418-236babef2788
-
-	
-</li>
-<br><br><br>
-
 <!-- ## Technologies I have used -->
 
 <!-- <table >
